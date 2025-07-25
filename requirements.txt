@@ -1,0 +1,7 @@
+flask==2.3.3
+tmdbv3api==1.9.0
+scikit-learn==1.3.2
+surprise==0.1
+pandas==2.0.3
+matplotlib==3.8.0
+numpy==1.24.4
