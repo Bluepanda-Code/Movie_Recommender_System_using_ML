@@ -1,6 +1,6 @@
 # 🎬 Movie Recommender System
 
-![Movie Recommender Banner](https://via.placeholder.com/800x200.png?text=Movie+Recommender+Banner)
+![Movie Recommender Banner](https://github.com/Bluepanda-Code/Movie_Recommender_System_using_ML/blob/master/git_images/banner.png)
 
 A Flask-based movie recommender system that combines **collaborative filtering** (SVD) and **content-based filtering** (TF-IDF on movie tags and genres) to provide personalized movie suggestions. Built using Python, Flask, and scikit-learn, with interactive visualizations and TMDb API integration. 🚀
 
@@ -95,23 +95,28 @@ Access it in your browser at:
 
 ### Rating Distribution
 
-![Rating Distribution](https://via.placeholder.com/800x200.png?text=Rating+Distribution)
+![Rating Distribution](https://github.com/Bluepanda-Code/Movie_Recommender_System_using_ML/blob/master/git_images/rating_distribution.png)
 
 ### Genre Distribution
 
-![Genre Distribution](https://via.placeholder.com/800x200.png?text=Genre+Distribution)
+![Genre Distribution](https://github.com/Bluepanda-Code/Movie_Recommender_System_using_ML/blob/master/git_images/genre_distribution.png)
 
 ---
 
 ## 🖼️ Screenshots
 
+
+### Web-Input Interface
+
+![Web-Input Interface](https://github.com/Bluepanda-Code/Movie_Recommender_System_using_ML/blob/master/git_images/web_interface.png)
+
 ### User-Based Recommendations
 
-![User-Based Recommendations](https://via.placeholder.com/800x200.png?text=User+ID+Recommendations)
+![User-Based Recommendations](https://github.com/Bluepanda-Code/Movie_Recommender_System_using_ML/blob/master/git_images/user_based.png)
 
 ### Content-Based Recommendations
 
-![Content-Based Recommendations](https://via.placeholder.com/800x200.png?text=Content+Based+Recommendations)
+![Content-Based Recommendations](https://github.com/Bluepanda-Code/Movie_Recommender_System_using_ML/blob/master/git_images/content_based.png)
 
 ---
 
